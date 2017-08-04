@@ -4,3 +4,9 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
     Honestly, it seems like a bad idea to me - doing that is just asking for your local
     and remote repositories to get out of sync.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    Fork is only for taking someone else's work on Github, copying it, then making your own changes. A clone is
+    when you copy a repository from Github to your local machine, or within a local machine. A branch is when you
+    are working on a repository but want to try some changes without impacting the main code. I think you could
+    use a local clone like a branch, but then you'd have two totally separate repositories and lose the ability
+    to merge. 
